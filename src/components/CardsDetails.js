@@ -72,6 +72,7 @@ const remove = (item)=>{
               <Table>
                 <tr>
                   <td>
+                    <p>demo</p>
                     <p> <strong>Restaurant</strong>  : {ele.rname}</p>
                     <p> <strong>Price</strong>  : ₹{ele.price}</p>
                     <p> <strong>Dishes</strong>  : {ele.address}</p>
